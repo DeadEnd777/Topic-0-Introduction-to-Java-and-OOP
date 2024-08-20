@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Encapsulation-Exercises/Java-Encapsulation-Exercises.iml" filepath="$PROJECT_DIR$/Java-Encapsulation-Exercises/Java-Encapsulation-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomeExercises/SomeExercises.iml" filepath="$PROJECT_DIR$/SomeExercises/SomeExercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/Topic-0-Introduction-to-Java-and-OOP.iml" filepath="$PROJECT_DIR$/Topic-0-Introduction-to-Java-and-OOP.iml" />
     </modules>
   </component>
